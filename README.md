@@ -20,18 +20,6 @@
   
        https://testingcf.jsdelivr.net/gh/longge83/iptv-collector@output/iptv.txt
 
-* 移动宽带不定期更新（含上海移动 IPV6 专属源）：
-
-  直链：
-
-       https://raw.githubusercontent.com/bjzhou/iptv-collector/output/iptv-cm.m3u
-  
-       https://raw.githubusercontent.com/bjzhou/iptv-collector/output/iptv-cm.txt
-  
-
-
-       
-  
        
 
 
